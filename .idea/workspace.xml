@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="183e20c7-c9ae-4868-93a4-ab7cd8b4cf29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Nahid/OrganizingCode.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SundayTests/META-INF/SundayTests.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SundayTests/META-INF/SundayTests.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SundayTests/SundayTest_20190728/Hamid_ExtensionFunctionKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SundayTests/SundayTest_20190728/Hamid_HigherOrderKt$main$result$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SundayTests/SundayTest_20190728/Hamid_HigherOrderKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SundayTests/SundayTest_20190804/MapReduceKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SundayTests/SundayTest_20190804/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SundayTests/SundayTest_20190804/RangesKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hamid/SundayTest_20190804/MapReduce.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hamid/SundayTest_20190804/MapReduce.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hamid/SundayTest_20190804/Ranges.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hamid/SundayTest_20190804/Ranges.kt" afterDir="false" />
-    </list>
+    <list default="true" id="183e20c7-c9ae-4868-93a4-ab7cd8b4cf29" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564902640609</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="nahid tests added">
+      <created>1564918016894</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1564918016895</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -173,6 +168,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="gitignore file is added&#10;packages modified" />
     <MESSAGE value="nahid package is added" />
-    <option name="LAST_COMMIT_MESSAGE" value="nahid package is added" />
+    <MESSAGE value="nahid tests added" />
+    <option name="LAST_COMMIT_MESSAGE" value="nahid tests added" />
   </component>
 </project>
