@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564918016895</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="gitignore file is added">
+      <created>1564918121066</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564918121067</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +176,7 @@
     <MESSAGE value="gitignore file is added&#10;packages modified" />
     <MESSAGE value="nahid package is added" />
     <MESSAGE value="nahid tests added" />
-    <option name="LAST_COMMIT_MESSAGE" value="nahid tests added" />
+    <MESSAGE value="gitignore file is added" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore file is added" />
   </component>
 </project>
