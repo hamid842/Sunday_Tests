@@ -15,7 +15,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1OulRInCPbk8SFxkDfVYboL97ap" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\HAMID\KOTLIN\SundayTests\src\SundayTest_20190804" />
@@ -33,41 +41,41 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.SundayTest_20190728.Hamid_HigherOrderKt">
-    <configuration name="SundayTest_20190728.Hamid_ExtensionFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.Hamid.SundayTest_20190728.Hamid_HigherOrderKt">
+    <configuration name="Hamid.SundayTest_20190728.Hamid_ExtensionFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SundayTests" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SundayTest_20190728.Hamid_ExtensionFunctionKt" />
+      <option name="MAIN_CLASS_NAME" value="Hamid.SundayTest_20190728.Hamid_ExtensionFunctionKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SundayTest_20190728.Hamid_HigherOrderKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Hamid.SundayTest_20190728.Hamid_HigherOrderKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SundayTests" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SundayTest_20190728.Hamid_HigherOrderKt" />
+      <option name="MAIN_CLASS_NAME" value="Hamid.SundayTest_20190728.Hamid_HigherOrderKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SundayTest_20190804.RangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Hamid.SundayTest_20190804.RangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="SundayTests" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="SundayTest_20190804.RangesKt" />
+      <option name="MAIN_CLASS_NAME" value="Hamid.SundayTest_20190804.RangesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,9 +83,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.SundayTest_20190728.Hamid_HigherOrderKt" />
-        <item itemvalue="Kotlin.SundayTest_20190728.Hamid_ExtensionFunctionKt" />
-        <item itemvalue="Kotlin.SundayTest_20190804.RangesKt" />
+        <item itemvalue="Kotlin.Hamid.SundayTest_20190728.Hamid_HigherOrderKt" />
+        <item itemvalue="Kotlin.Hamid.SundayTest_20190728.Hamid_ExtensionFunctionKt" />
+        <item itemvalue="Kotlin.Hamid.SundayTest_20190804.RangesKt" />
       </list>
     </recent_temporary>
   </component>

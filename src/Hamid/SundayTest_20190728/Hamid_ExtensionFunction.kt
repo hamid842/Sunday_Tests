@@ -1,4 +1,4 @@
-package SundayTest_20190728
+package Hamid.SundayTest_20190728
 
 val str1 = "Hamid"
 val str2 = "Mohamadi"

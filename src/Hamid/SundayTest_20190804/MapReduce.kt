@@ -1,4 +1,4 @@
-package SundayTest_20190804
+package Hamid.SundayTest_20190804
 
 data class Person (val firstName :String ,
                    val lastName: String ,
